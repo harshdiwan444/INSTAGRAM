@@ -1,0 +1,13 @@
+/* Styles for Instagram feed */
+/* Customize as needed */
+.instagram-feed {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  
+  /* Additional styles for carousel layout if needed */
+  /* .instagram-feed.carousel { }*/
+    /* Add styles for carousel layout */
+  
+  
